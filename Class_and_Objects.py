@@ -20,3 +20,8 @@ print(did_pass)
 student2 = Student('Harry', 30)
 did_pass = student2.check_pass_fail()
 print(did_pass)
+
+#Output:
+Congratulation you have successfully passed
+Better luck next time
+
