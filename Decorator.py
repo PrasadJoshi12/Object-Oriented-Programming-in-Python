@@ -8,7 +8,7 @@ class Error_check:
     else:
       return self.function(args)
       
-@Test
+@Error_check
 def add_num(args):
   return sum(args)
 
