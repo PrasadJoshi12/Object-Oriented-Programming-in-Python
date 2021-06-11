@@ -19,7 +19,7 @@ class Animal:
         print("{} speaks {}".format(self.name, self.sound))
 
 class Piglet(Animal):
-    sound = "ook ook"
+    sound = "oink!"
 
 class Cow(Animal):
     sound = "Moooooo"
